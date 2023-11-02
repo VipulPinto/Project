@@ -1,3 +1,2 @@
 # Project
-This is a sample project
-Second change
+This is a sample repo to demonstrate git 
